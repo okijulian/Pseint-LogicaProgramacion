@@ -9,8 +9,7 @@
 //? Si sólo cumple la segunda condición, grado 7.
 //? Si cumple las dos condiciones, grado 8
 
-Algoritmo ejercicio11
-	
+Algoritmo ejercicio11	
 	Definir  defectuso, sinDefecto Como Entero
 	
 	Escribir "Ingresa la cantidad de tornillos sin defectos"
