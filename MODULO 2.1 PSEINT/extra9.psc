@@ -11,7 +11,7 @@ Algoritmo extra9
 	Si anhio mod 4 <> 0 Entonces
 		Escribir anhio " no es bisiesto"
 	SiNo
-		Si anhio mod 4 ==0 Y anhio mod 100 <> 0 Entonces
+		Si anhio mod 4 ==0 Y anhio mod 100 <>0 Entonces
 			Escribir  anhio " es bisiesto"
 		Sino 
 			Si anhio mod 4 ==0 Y anhio mod 100 == 0 Y anhio mod 400 <>0 Entonces

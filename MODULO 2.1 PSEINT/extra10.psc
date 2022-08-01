@@ -42,7 +42,4 @@ Algoritmo extra10
 		
 	FinSi
 	
-	
-
-	
 FinAlgoritmo
