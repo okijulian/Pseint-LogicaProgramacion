@@ -60,30 +60,14 @@ Algoritmo extra12
 					salario= valorxHora*horas
 					Escribir "el monto para cobrar esta semana es de: ", salario 
 				SiNo
-					Si horas>40 Entonces
-						
-						salario= (valorxHora*horas)+(((horas-40)*0.5)*valorxHora)
-						
+					Si horas>40 Entonces						
+						salario= (valorxHora*horas)+(((horas-40)*0.5)*valorxHora)						
 						Escribir "el monto para cobrar esta semana es de: ", salario 				
 												
 					FinSi
-				FinSi
-				
+				FinSi				
 			FinSi
-			
-			
-			
-			
-			
-			
-		FinSi
-	
+		FinSi	
 		
-	FinSi
-	
-	
-	
-	
-	
-	
+	FinSi	
 FinAlgoritmo
