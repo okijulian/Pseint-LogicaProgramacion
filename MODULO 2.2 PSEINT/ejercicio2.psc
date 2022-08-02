@@ -13,7 +13,6 @@ Algoritmo ejercicio2
 		Leer num	
 		acumulador= acumulador+num			
 				
-	FinMientras
-	
+	FinMientras	
 	Escribir "la suma de todos los numeros ingresados es: ", acumulador
 FinAlgoritmo
