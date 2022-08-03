@@ -16,8 +16,7 @@ Algoritmo numeroMayor
 			mayor= num	
 			
 		FinSi		
-		
-		
+	
 	FinPara
  	Escribir "La cantidad de numeros ingresados es: " i
 	Escribir "el mayor de los numeros ingresados es: " mayor
