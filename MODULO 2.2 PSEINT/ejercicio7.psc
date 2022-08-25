@@ -9,31 +9,19 @@
 //Imprimirá por pantalla: Hola, cómo estás?
 Algoritmo ejercicio7
 	
-	Definir frase, letras Como Caracter
-	Definir  tamano,i,j Como Entero
+	Definir frase Como Caracter
+	Definir  tamano,i Como Entero
 	
 	Escribir "Ingrese la frase"
 	Leer frase
 	
 	tamano=Longitud(frase)
 	
-	Escribir "la longitud de la frase: ", frase, " ingresada es:  ", tamano
-	
-	Dimension letras[tamano]
+	Escribir "la longitud de la frase: ", frase, " ingresada es:  ", tamano-1	
 	
 	Para i<-0 Hasta tamano-1 Con Paso 1 Hacer
-		letras[i]=Subcadena(frase,i,i)
-		
+		Escribir  Sin Saltar Subcadena(frase,i,i)
+		Escribir Sin Saltar " "		
 	FinPara
-	
-	Para j<-0 Hasta tamano-1 Con Paso 1 Hacer
-		
-		Escribir  Sin Saltar " ", letras[j]
-	FinPara
-	
-	
-	
-	
-	
 	
 FinAlgoritmo
