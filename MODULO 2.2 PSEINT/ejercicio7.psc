@@ -21,7 +21,9 @@ Algoritmo ejercicio7
 	
 	Para i<-0 Hasta tamano-1 Con Paso 1 Hacer
 		Escribir  Sin Saltar Subcadena(frase,i,i)
-		Escribir Sin Saltar " "		
+		Escribir Sin Saltar " "	
+		
 	FinPara
+	Escribir""
 	
 FinAlgoritmo
