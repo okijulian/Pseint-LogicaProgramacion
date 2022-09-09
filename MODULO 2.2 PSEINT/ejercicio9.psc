@@ -28,13 +28,10 @@ Algoritmo ejercicio9
 				SiNo
 					Escribir Sin Saltar" "
 				FinSi
-				
-				
 			FinSi
 		FinPara
 		Escribir ""
 		
 	FinPara
-	
 	
 FinAlgoritmo
